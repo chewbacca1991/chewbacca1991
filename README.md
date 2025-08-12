@@ -1,44 +1,31 @@
-# Chewbacca1991 🐾  
+# 👾 chewbacca1991
 
-## 🌟 Giới thiệu  
-Chào mừng đến với hồ sơ của tôi! Tôi là một người đam mê công nghệ và quản lý cơ sở dữ liệu, luôn tìm kiếm cách để tối ưu hóa dữ liệu và quy trình.  
+![Profile Views](https://komarev.com/ghpvc/?username=chewbacca1991&label=Profile%20Views&color=blue&style=flat)
 
----  
+### A passionate developer committed to creating impactful software.
 
-## ⚙️ Mục tiêu  
-- Tối ưu hóa cấu trúc dữ liệu  
-- Phát triển công cụ quản lý cơ sở dữ liệu hiệu quả  
-- Hỗ trợ cộng đồng trong việc học hỏi và chia sẻ kiến thức  
+## Summary
+I'm a software developer with over 5 years of experience in building robust web applications. My enthusiasm for coding drives me to explore new technologies and improve my skills continuously.
 
----  
+## Focus
+Currently, I’m focused on developing scalable web applications and contributing to open-source projects that make a difference in the community.
 
-## 🛠️ Công nghệ tôi đã sử dụng  
-| Công nghệ         | Kinh nghiệm          |  
-|-------------------|---------------------|  
-| MySQL             | ⭐⭐⭐⭐⭐               |  
-| PostgreSQL        | ⭐⭐⭐⭐                |  
-| MongoDB           | ⭐⭐⭐⭐                |  
-| SQL Server        | ⭐⭐⭐                 |  
+## Toolkit
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 
----  
+## Highlights
+- **Open Source Contributions**: Active contributor to several projects in various programming languages.
+- **Web Development**: Expert in building responsive and user-friendly web applications using modern frameworks.
+- **Community Engagement**: Regularly participate in tech meetups and hackathons to foster collaboration and innovation.
 
-## 🔍 Dự án nổi bật  
-- **Quản lý danh bạ**: Xây dựng ứng dụng quản lý danh bạ với tính năng tìm kiếm nâng cao.  
-- **Báo cáo phân tích dữ liệu**: Phát triển báo cáo trực quan cho chuỗi cửa hàng trực tuyến.  
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chewbacca1991&show_icons=true&hide_title=true&count_private=true&theme=blueberry)
 
----  
+## Contact
+- GitHub: [github.com/chewbacca1991](https://github.com/chewbacca1991)
+- Telegram: [t.me/chewbacca1991](https://t.me/chewbacca1991)
 
-## 📊 Thống kê  
-![Profile Views](https://komarev.com/ghpvc/?username=chewbacca1991&label=Profile%20Views&color=blue&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chewbacca1991&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chewbacca1991&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=chewbacca1991&theme=radical)  
+<sub>id:17550119</sub>
 
----  
-
-## 📫 Liên hệ  
-Hãy kết nối với tôi qua GitHub hoặc gửi email: chewbacca1991@example.com  
-
----  
-
-Cảm ơn bạn đã ghé thăm! Hãy theo dõi để cập nhật những dự án mới nhất của tôi.
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chewbacca1991&layout=compact&theme=github_dark" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=chewbacca1991&show_icons=true&theme=github_dark" height="130"/></p>
+<p><img src="https://streak-stats.demolab.com/?user=chewbacca1991&theme=github_dark" height="150"/></p>
