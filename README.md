@@ -1,18 +1,16 @@
-# Giới thiệu
-Chào mừng bạn đến với trang GitHub của tôi! Tôi là Chewbacca1991, một lập trình viên đam mê công nghệ và khám phá.
+# chewbacca1991
 
-# Kỹ năng
-- JavaScript
-- Python
-- React
-- Node.js
-- Git
+**Thema:** cybersecurity
 
-# Dự án
-- [Dự án A](https://github.com/chewbacca1991/project-a): Một ứng dụng web tuyệt vời.
-- [Dự án B](https://github.com/chewbacca1991/project-b): Một công cụ hữu ích cho lập trình viên.
+## Über mich
+Fokus auf cybersecurity.
 
-# Liên hệ
-Bạn có thể liên hệ với tôi qua:
-- Email: chewbacca1991@example.com
-- Twitter: [@chewbacca1991](https://twitter.com/chewbacca1991)
+## Tech
+- Python · Git · CI/CD
+- - security
+- cybersecurity
+- infosec
+- pentest
+
+## Links
+- Profil: https://github.com/chewbacca1991
