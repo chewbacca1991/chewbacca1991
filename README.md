@@ -1,19 +1,18 @@
-![data-driven development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwNHpwd3BxcWVodnl6ZjltMzVhamQwZ20zbXkxc2Vwa3VveWNpcDNkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJBbXQooivUNq/giphy.gif)
-
 # Giới thiệu
-Xin chào! Tôi là chewbacca1991, một lập trình viên với niềm đam mê công nghệ và phát triển phần mềm.
+Chào mừng bạn đến với trang GitHub của tôi! Tôi là Chewbacca1991, một lập trình viên đam mê công nghệ và khám phá.
 
 # Kỹ năng
-- Lập trình web: HTML, CSS, JavaScript, React
-- Lập trình di động: Flutter, React Native
-- Backend: Node.js, Express
-- Cơ sở dữ liệu: MongoDB, MySQL
+- JavaScript
+- Python
+- React
+- Node.js
+- Git
 
 # Dự án
-- [Dự án 1](https://github.com/chewbacca1991/project1): Mô tả ngắn gọn về dự án 1.
-- [Dự án 2](https://github.com/chewbacca1991/project2): Mô tả ngắn gọn về dự án 2.
+- [Dự án A](https://github.com/chewbacca1991/project-a): Một ứng dụng web tuyệt vời.
+- [Dự án B](https://github.com/chewbacca1991/project-b): Một công cụ hữu ích cho lập trình viên.
 
 # Liên hệ
 Bạn có thể liên hệ với tôi qua:
 - Email: chewbacca1991@example.com
-- LinkedIn: [chewbacca1991](https://www.linkedin.com/in/chewbacca1991)
+- Twitter: [@chewbacca1991](https://twitter.com/chewbacca1991)
